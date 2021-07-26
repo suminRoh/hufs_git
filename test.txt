@@ -1,3 +1,3 @@
 git merge test
-git branch master
+git branch master conflict
 git branch test1
